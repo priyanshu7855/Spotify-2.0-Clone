@@ -2,7 +2,7 @@
 
 A modern, feature-rich music streaming application built with React, TypeScript, and Tailwind CSS. This enhanced Spotify clone offers a beautiful user interface with advanced music management capabilities and smooth user experience.
 
-![Spotify 2.0 Clone](https://images.pexels.com/photos/1763075/pexels-photo-1763075.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![Spotify 2.0 Clone](https://github.com/priyanshu7855/Spotify-2.0-Clone/blob/main/Screenshot.png?raw=true)
 
 ## ✨ Features
 
@@ -42,7 +42,7 @@ A modern, feature-rich music streaming application built with React, TypeScript,
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/spotify-2.0-clone.git
+   git clone https://github.com/priyanshu7855/Spotify-2.0-Clone
    cd spotify-2.0-clone
    ```
 
@@ -185,9 +185,9 @@ The app uses Tailwind CSS for styling. Modify the classes in components or exten
 
 ## 📞 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername) - your.email@example.com
+Priyanshu  - priyanshukh54@gmail.com
 
-Project Link: [https://github.com/yourusername/spotify-2.0-clone](https://github.com/yourusername/spotify-2.0-clone)
+Project Link: [https://github.com/priyanshu7855/Spotify-2.0-Clone](https://github.com/priyanshu7855/Spotify-2.0-Clone)
 
 ---
 
